@@ -1,6 +1,9 @@
 /*your custom CSS here*/
 .box img{
   width: 100%;
-  padding-left: 10px
-  padding-top:10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
+
